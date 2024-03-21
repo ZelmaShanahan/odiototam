@@ -1,0 +1,28 @@
+{
+  "name": "odiototam",
+  "version": "1.0.0",
+  "description": "A gulp plugin which can import .js files into .js files",
+  "keywords": [
+    "consequatur",
+    "in",
+    "quibusdam"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AmosGerhold",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZelmaShanahan/odiototam.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZelmaShanahan/odiototam.git/issues"
+  },
+  "homepage": "https://github.com/ZelmaShanahan/odiototam.git"
+}
